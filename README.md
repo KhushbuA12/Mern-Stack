@@ -96,3 +96,5 @@ To create the combined API, the following steps can be followed:
 The combined JSON object can be structured in any way that is convenient for the front-end developer to consume. It should contain all the information from each of the three APIs, including the total sale amount, total number of sold items, total number of not sold items, the bar chart of price ranges and the number of items in each range, and the unique categories and number of items sold in each category.
 
 This API can be useful for providing a comprehensive view of sales data for a selected month, and can be used to inform business decisions such as inventory management, marketing strategies, and financial planning.
+# Roxiler-assignment
+# Mern-Stack
